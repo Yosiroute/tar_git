@@ -8,6 +8,7 @@
   "license": "ISC",
   "type": "commonjs", 
   "dependencies": {
+    "npm_pkg": "github:Yosiroute/npm_pkg"
   }
 }
 
