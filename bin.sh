@@ -1,0 +1,1 @@
+touch /tmp/SCRIPT_SHELL_CONF
