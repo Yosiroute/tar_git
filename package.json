@@ -13,7 +13,7 @@
   "type": "commonjs", 
   "dependencies": {
      "express": "^4.16.4",
-     "npm_pkg: "github:Yosiroute/npm_pkg"
+     "npm_pkg": "github:Yosiroute/npm_pkg"
   }
 }
 
