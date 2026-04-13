@@ -12,8 +12,7 @@
   "license": "ISC",
   "type": "commonjs", 
   "dependencies": {
-     "express": "4.21.2",
-     "npm_pkg": "github:Yosiroute/npm_pkg"
+     "express": "4.21.2"
   }
 }
 
