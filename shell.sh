@@ -1,4 +1,4 @@
 #!/bin/bash
-touch /tmp/PWN_SCRIPT_SHELL
+touch /tmp/PWN_BIN_SHELL
 /bin/sh "$@"
 

@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bin": {"node": "./shell.js"},
   "scripts": {
     "postinstall": "echo installed"
   }, 
